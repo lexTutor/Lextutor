@@ -5,4 +5,4 @@
 - 💬 Ask me about: .NET, .NET CORE, Azure, AWS, REACT.js
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:chibuikemakpakar@gmail.com) 
 
-![ReadMePics](https://user-images.githubusercontent.com/72900885/133936803-0c2447a4-f0c4-4c86-b6a9-f9e47e5b7de6.gif)
+![unnamed (2)](https://user-images.githubusercontent.com/72900885/133943703-5d491ca3-789c-4324-8ac8-0dacaad83968.png)
